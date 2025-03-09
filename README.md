@@ -53,6 +53,24 @@ ex) [Week1][승용] - 알고리즘 풀이
 ex) [Baekjoon-1010]: 알파벳 찾기
 ```
 
+## 디렉토리 구조
+```
+.
+├── README.md
+├── chanki
+│   └── README.md
+├── hwantae
+│   └── README.md
+├── hyunjin
+│   └── README.md
+├── seungyong
+│   └── README.md
+└── yujin
+    └── README.md
+```
+
+- 본인 이름의 디렉토리 아래에 편하신대로 구조를 만들어서 사용하시면 됩니다!
+
 ## 회의록
 
 | **날짜** | **장소**          | **회의 내용**                                         | 
