@@ -3,3 +3,4 @@
 
 | **날짜** | **유형**          | **문제 링크**                                         | 
 | -------- | ------------------- | ----------------------------------------------------- | 
+| 2025/03/10 | BFS | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq |
