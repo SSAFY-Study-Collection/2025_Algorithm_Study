@@ -8,3 +8,4 @@
 | 2025/03/10 | 시뮬레이션 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu |
 | 2025/03/11 | 시뮬레이션 | https://www.acmicpc.net/problem/17143 |
 | 2025/03/11 | 완전탐색 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu |
+| 2025/03/12 | PQ/정렬 | https://www.acmicpc.net/problem/11000 |
