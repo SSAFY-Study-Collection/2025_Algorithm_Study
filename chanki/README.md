@@ -6,3 +6,4 @@
 | 2025/03/10 | 완탐(조합), BFS | https://www.acmicpc.net/problem/16988  |
 | 2025/03/11 | BFS         | https://www.acmicpc.net/problem/16973  |
 | 2025/03/11 | 백트래킹        | https://www.acmicpc.net/problem/15686  |
+| 2025/03/12 | 시뮬레이션       | https://www.acmicpc.net/problem/3190  |
