@@ -8,3 +8,4 @@
 | 2025/03/11 | 백트래킹        | https://www.acmicpc.net/problem/15686  |
 | 2025/03/12 | 시뮬레이션       | https://www.acmicpc.net/problem/3190  |
 | 2025/03/19 | 큐, 스택       | https://school.programmers.co.kr/learn/courses/30/lessons/42584  |
+| 2025/03/20 | 큐, 스택       | https://school.programmers.co.kr/learn/courses/30/lessons/42586  |
