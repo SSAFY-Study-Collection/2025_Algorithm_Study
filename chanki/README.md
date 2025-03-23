@@ -10,3 +10,4 @@
 | 2025/03/19 | 큐, 스택       | https://school.programmers.co.kr/learn/courses/30/lessons/42584  |
 | 2025/03/20 | 큐, 스택       | https://school.programmers.co.kr/learn/courses/30/lessons/42586  |
 | 2025/03/23 | BFS         | https://school.programmers.co.kr/learn/courses/30/lessons/1829  |
+| 2025/03/23 | 힙           | https://school.programmers.co.kr/learn/courses/30/lessons/42626  |
