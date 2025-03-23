@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class 치킨배달_1566 {
+public class 치킨배달_15686 {
 
     static class Point {
         int r;
