@@ -5,3 +5,4 @@
 | -------- | ------------------- | ----------------------------------------------------- | 
 | 2025/03/19 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42584 | 
 | 2025/03/21 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 
+| 2025/03/21 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42586 | 
