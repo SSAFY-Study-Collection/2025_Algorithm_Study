@@ -12,4 +12,5 @@
 | 2025/03/23 | BFS         | https://school.programmers.co.kr/learn/courses/30/lessons/1829  |
 | 2025/03/23 | 힙           | https://school.programmers.co.kr/learn/courses/30/lessons/42626  |
 | 2025/03/23 | 해시          | https://school.programmers.co.kr/learn/courses/30/lessons/42578  |
-| 2025/03/24 | 정렬    | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |
+| 2025/03/24 | 정렬          | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |
+| 2025/03/24 | DP          | https://school.programmers.co.kr/learn/courses/30/lessons/43105  |
