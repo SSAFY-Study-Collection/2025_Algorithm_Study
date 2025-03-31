@@ -1,0 +1,16 @@
+class Solution {
+    public int[] solution(int[] prices) {
+        
+        int N = prices.length;
+        int[] answer = new int[N];
+        
+        for(int i = 0; i < prices.length; i++) {
+			for(int j = i+1; j < prices.length; j++) {
+				answer[i]++;
+				if(prices[i] > prices[j]) 
+					break;
+			}
+		}
+		return answer;
+    }
+}
