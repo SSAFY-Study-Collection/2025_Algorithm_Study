@@ -10,3 +10,4 @@
 | 2025/03/24 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12899 | 
 | 2025/03/25 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | 
 | 2025/03/26 | 2020 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/60057 | 
+| 2025/03/26 | 힙(Heap) | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 
