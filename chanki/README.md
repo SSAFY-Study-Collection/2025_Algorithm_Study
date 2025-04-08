@@ -17,3 +17,4 @@
 | 2025/03/24 | 힙          | https://school.programmers.co.kr/learn/courses/30/lessons/42627  |
 | 2025/03/24 | 큐, 스택      | https://school.programmers.co.kr/learn/courses/30/lessons/42587  |
 | 2025/03/27 | 완탐  | https://school.programmers.co.kr/learn/courses/30/lessons/60059  |
+| 2025/04/1| 연습문제제 | https://school.programmers.co.kr/learn/courses/30/lessons/12911  |
