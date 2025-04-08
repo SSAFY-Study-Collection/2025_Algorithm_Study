@@ -12,3 +12,4 @@
 | 2025/03/26 | 2020 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/60057 | 
 | 2025/03/26 | 힙(Heap) | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 
 | 2025/03/31 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42883 | 
+| 2025/04/01 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 
