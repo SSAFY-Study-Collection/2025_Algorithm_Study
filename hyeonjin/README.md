@@ -15,3 +15,4 @@
 | 2025/04/01 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 
 | 2025/04/02 | 정렬 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 
 | 2025/04/03 | 정렬 | https://school.programmers.co.kr/learn/courses/30/lessons/42747 | 
+| 2025/04/05 | 2017 카카오코드 예선 | https://school.programmers.co.kr/learn/courses/30/lessons/1832 | 
