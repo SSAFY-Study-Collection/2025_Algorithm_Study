@@ -3,3 +3,21 @@
 
 | **날짜** | **유형**          | **문제 링크**                                         | 
 | -------- | ------------------- | ----------------------------------------------------- | 
+| 2025/03/19 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42584 | 
+| 2025/03/21 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 
+| 2025/03/21 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42586 | 
+| 2025/03/22 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17676 | 
+| 2025/03/24 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12899 | 
+| 2025/03/25 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | 
+| 2025/03/26 | 2020 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/60057 | 
+| 2025/03/26 | 힙(Heap) | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 
+| 2025/03/31 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42883 | 
+| 2025/04/01 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 
+| 2025/04/02 | 정렬 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 
+| 2025/04/03 | 정렬 | https://school.programmers.co.kr/learn/courses/30/lessons/42747 | 
+| 2025/04/04 | 2017 카카오코드 예선 | https://school.programmers.co.kr/learn/courses/30/lessons/1832 | 
+| 2025/04/07 | 2021 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/72413 | 
+| 2025/04/08 | 해시 | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 
+| 2025/04/09 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42885 | 
+| 2025/04/10 | 깊이/너비 우선 탐색(DFS/BFS) | https://school.programmers.co.kr/learn/courses/30/lessons/43165 | 
+| 2025/04/11 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 
