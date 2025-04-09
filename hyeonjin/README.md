@@ -20,4 +20,4 @@
 | 2025/04/08 | 해시 | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 
 | 2025/04/09 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42885 | 
 | 2025/04/10 | 깊이/너비 우선 탐색(DFS/BFS) | https://school.programmers.co.kr/learn/courses/30/lessons/43165 | 
-
+| 2025/04/11 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 
