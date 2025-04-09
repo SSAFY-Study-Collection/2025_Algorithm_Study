@@ -18,3 +18,5 @@
 | 2025/04/04 | 2017 카카오코드 예선 | https://school.programmers.co.kr/learn/courses/30/lessons/1832 | 
 | 2025/04/07 | 2021 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/72413 | 
 | 2025/04/08 | 해시 | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 
+| 2025/04/09 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42885 | 
+
